@@ -1,4 +1,4 @@
-### Hi, I’m @elymiguel !
+### Hi, I’m Miguel Ely.
 #### OutSystems Developer Certified in Associate Reactive Developer & Traditional Web Developer.
 #### I’m currently learning Wed Development - Html5, Css3, JavaScript & ReactJS.
 #### How to reach me: 
