@@ -7,6 +7,5 @@
   - OutSystems: https://www.outsystems.com/profile/wobfsbgxwi/learn
   
 #### Projects:
-  - Bookings App - OutSystems 11
-  - https://github.com/elymiguel/booking-app
+  - Bookings App - OutSystems 11 - https://github.com/elymiguel/booking-app
 
