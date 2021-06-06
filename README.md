@@ -2,7 +2,7 @@
 #### OutSystems Developer Certified - Associate Reactive Developer & Traditional Web Developer.
 #### Front-End Development - Html5, Css3, JavaScript & ReactJS.
 #### How to reach me: 
-  - GitHub: https://elymiguel.github.io/
+  - Profile: https://elymiguel.github.io/
   - LinkedIn: https://www.linkedin.com/in/elymiguel/
   - OutSystems: https://www.outsystems.com/profile/wobfsbgxwi/learn
   
