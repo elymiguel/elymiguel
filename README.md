@@ -1,6 +1,6 @@
 ### Hi, I’m Miguel Ely.
 #### OutSystems Developer Certified - Associate Reactive Developer & Traditional Web Developer.
-#### Front-End Development - Html5, Css3, JavaScript & ReactJS.
+#### Front-End Development - Html5, Css3 & JavaScript
 #### How to reach me: 
   - Profile: https://elymiguel.github.io/
   - LinkedIn: https://www.linkedin.com/in/elymiguel/
